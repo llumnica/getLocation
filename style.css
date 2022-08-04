@@ -1,0 +1,31 @@
+ .container {
+     max-width: 85%;
+     padding: 50px 0;
+     margin: auto;
+ }
+
+ .d-flex {
+     display: flex;
+ }
+
+ .p-2 {
+     padding: 10px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+ .p-2 button {
+     padding: 10px;
+     border-radius: 7px;
+     background-color: #333;
+     color: #fff;
+     cursor: pointer;
+ }
+
+ #json-result {
+     background-color: lightblue;
+     padding: 30px;
+     width: 100%;
+     word-wrap: break-word;
+ }
